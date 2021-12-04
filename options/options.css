@@ -1,0 +1,13 @@
+label, p {
+	font-weight: bold;
+}
+
+input {
+	margin: 5px
+}
+
+button {
+	width: 100px;
+	background-color: #3d5ed6;
+	color: white;
+}
