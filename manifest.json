@@ -9,7 +9,8 @@
   "permissions": [
     "storage",
     "activeTab",
-    "scripting"
+    "scripting",
+    "webRequest"
   ],
   "action": {
     "default_popup": "/popup/popup.html"
